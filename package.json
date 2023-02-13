@@ -1,0 +1,24 @@
+{
+  "name": "@arfajarsetiaji/eslint-config-node",
+  "version": "0.0.1",
+  "description": "Ar Fajar Setiaji's ESlint config for Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arfajarsetiaji/eslint-config-node.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "node"
+  ],
+  "author": "Ar Fajar Setiaji <arfajarsetiaji.id@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arfajarsetiaji/eslint-config-node/issues"
+  },
+  "homepage": "https://github.com/arfajarsetiaji/eslint-config-node#readme"
+}
