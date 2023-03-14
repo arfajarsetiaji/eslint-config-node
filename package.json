@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/arfajarsetiaji/eslint-config-node/issues"
   },
-  "homepage": "https://github.com/arfajarsetiaji/eslint-config-node#readme"
+  "homepage": "https://github.com/arfajarsetiaji/eslint-config-node#readme",
+  "devDependencies": {
+    "eslint": "^8.36.0"
+  }
 }
